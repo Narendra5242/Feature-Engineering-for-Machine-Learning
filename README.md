@@ -2,7 +2,7 @@
 
 -- From beginner to advanced Soledad Galli https://www.udemy.com/feature-engineering-for-machine-learning/
 
-https://github.com/raytroop/FeatureEngineering/blob/master/Slides/cover.png?raw=true
+
 
 1.Introduction
 2.Types of variables
